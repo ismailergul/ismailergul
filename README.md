@@ -15,3 +15,8 @@
 <li> You can send mails to me: <font color="pink">ismailergulcontact@gmail.com</font></li>
 <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1644427136~hmac=871f4e9f42952cddcb21c8c7026949de" width="50px"><img src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1644427178~hmac=ab5d6c6e3d611c65940927b5abbb44e7" width="50px" style="padding-left: 20px;">
 
+<div align="center">
+
+ <img alt= "Discord Banner" align="center" src="https://discord.c99.nl/widget/theme-3/510479430917816340.png%22/%3E
+
+</div>
